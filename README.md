@@ -68,3 +68,4 @@ Feel free to fork the repository and submit pull requests.
 ## License
 
 MIT
+"# openai-assistants-discord-bot-js" 
